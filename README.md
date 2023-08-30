@@ -11,9 +11,12 @@ EMBL-EBI
 
 ## Description
 
+In this session we will focus on using the EMBL-EBI's biodiversity Portals and the ENA to explore and retrieve open biodiversity data.
+
 By the end of this session you will be able to:
 
 1. effectively search and retrieve data from the DToL data portal
+2. effectively search and retrieve data from the ENA
 
 ## Prerequisites
 
